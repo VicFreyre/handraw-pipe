@@ -182,7 +182,7 @@ const HandDrawingApp: React.FC = () => {
 
           <div className="flex items-center space-x-3">
             <button
-              onClick={() => window.open('https://https://github.com/VicFreyre/handraw', '_blank')}
+              onClick={() => window.open('https://https://github.com/VicFreyre/handraw-pipe', '_blank')}
               className="flex items-center space-x-2 bg-purple-600/20 hover:bg-purple-600/30 transition-all duration-300 px-4 py-2 rounded-lg border border-purple-500/30"
             >
               <Github className="w-4 h-4 text-purple-300" />
@@ -392,7 +392,7 @@ const HandDrawingApp: React.FC = () => {
       <footer className="bg-black/30 backdrop-blur-md border-t border-purple-500/20 p-4">
         <div className="text-center">
           <p className="text-purple-300 text-sm">
-            Desenvolvido com ❤️ por <span className="text-purple-400 font-semibold">Victória Freyre</span>
+           Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/vict%C3%B3ria-freyre-220b05291/" className="text-purple-400 font-semibold" target="_blank" rel="noopener noreferrer">Victória Freyre</a>
           </p>
           <p className="text-purple-400 text-xs mt-1">
             
