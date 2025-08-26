@@ -5,8 +5,8 @@
 
 Deploy da prototipação de interface: [Acesse aqui 🚀](https://handraw-gvuj68zs5-vics-projects-becbc9ab.vercel.app/)
 
-Desenhe na tela usando apenas gestos das mãos capturados pela webcam!  
-O **HandDraw** é uma aplicação web inovadora que utiliza **inteligência artificial** para transformar movimentos das mãos em desenhos digitais — sem necessidade de mouse ou touch.
+Desenhe na tela usando apenas gestos das mãos capturados pela webcam!
+O HandDraw é uma aplicação web inovadora em desenvolvimento, que utiliza inteligência artificial para transformar movimentos das mãos em desenhos digitais!
 
 ---
 
