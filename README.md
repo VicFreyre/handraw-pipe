@@ -1,5 +1,7 @@
 # ✋🎨 HandDraw BETA 0.01
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44ce6b97-feaf-480a-aef9-7b5f8e5d8c06" width="1100" />
+</p>
 
 Deploy da prototipação de interface: [Acesse aqui 🚀](https://handraw-gvuj68zs5-vics-projects-becbc9ab.vercel.app/)
 
