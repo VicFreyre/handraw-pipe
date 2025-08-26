@@ -1,4 +1,5 @@
-# ✋🎨 HandDraw
+# ✋🎨 HandDraw BETA 0.01
+
 
 Deploy da prototipação de interface: [Acesse aqui 🚀](https://handraw-gvuj68zs5-vics-projects-becbc9ab.vercel.app/)
 
@@ -17,6 +18,33 @@ O **HandDraw** é uma aplicação web inovadora que utiliza **inteligência arti
 -  **Salvar desenho**: Baixe seu desenho como imagem **PNG**.  
 -  **Interface moderna**: Desenvolvida com **React** e estilizada com **Tailwind CSS**.  
 
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+handraw-main/
+├── public/
+│   └── index.html                # Arquivo HTML principal
+├── src/                          # Código-fonte da aplicação
+│   ├── components/               # Componentes React reutilizáveis
+│   │   └── HandDrawingApp.tsx    # Componente principal do app de desenho
+│   ├── App.tsx                   # Componente raiz da aplicação
+│   ├── index.css                 # Estilos globais
+│   ├── main.tsx                  # Ponto de entrada da aplicação React
+│   └── vite-env.d.ts             # Tipagens para Vite e TypeScript
+├── .gitignore                    # Arquivos e pastas ignorados pelo Git
+├── README.md                     # Documentação do projeto
+├── eslint.config.js              # Configuração do ESLint
+├── package-lock.json             # Lockfile de dependências
+├── package.json                  # Dependências e scripts do projeto
+├── postcss.config.js             # Configuração do PostCSS
+├── tailwind.config.js            # Configuração do Tailwind CSS
+├── tsconfig.app.json             # Configuração do TypeScript para app
+├── tsconfig.json                 # Configuração principal do TypeScript
+├── tsconfig.node.json            # Configuração do TypeScript para Node
+└── vite.config.ts                # Configuração do Vite
+```
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -41,3 +69,13 @@ git clone https://github.com/VicFreyre/handraw-pipe.git
 cd handraw-pipe
 npm install
 npm run dev
+```
+
+## 👩‍💻 Autor
+
+**Victória Freyre**  
+
+[LinkedIn](https://www.linkedin.com/in/vict%C3%B3ria-freyre-220b05291/)
+
+
+
